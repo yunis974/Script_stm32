@@ -2,7 +2,7 @@
 set -e
 
 INSTALL_DIR="$HOME/.local/bin"
-SCRIPT_NAME="scriptInit"  # final command name
+SCRIPT_NAME="mcuProjectInit"  # final command name
 SOURCE_FILE="mcu_project.py"
 
 # Create the directory if it doesn't exist
